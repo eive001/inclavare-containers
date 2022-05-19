@@ -2,7 +2,7 @@ from securesystemslib import interface
 from in_toto.models.layout import Layout
 from in_toto.models.metadata import Metablock
 
-SHA256_VALUE = "48772e82a2993f44894820637ce13e0aceb9ab68d3b01dab79c945eaaa2d74cf"
+SHA256_VALUE = "98fa64479faaf6fd325b8f05fb0c5b5d47c6ac088339410215025529cbe7493e"
 
 def main():
   # Load Jerry's private key to later sign the layout
